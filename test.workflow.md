@@ -24,3 +24,7 @@
 	- Do you exit quickly on error?
 	- Do you not enter the loop if it isn't necessary?
 - Does the control flow runs smoothly or do you make unnecessary calls?
+
+## References
+
+Taken from [this tweet](https://twitter.com/hrisKoleva/status/1672903338898145280?s=20)
